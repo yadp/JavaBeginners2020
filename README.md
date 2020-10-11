@@ -1,1 +1,1 @@
-# JavaBegginers2020
+# JavaBeginners2020
